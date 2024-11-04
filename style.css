@@ -1,0 +1,19 @@
+body {
+    background: url(/imagenes/imagen\ de\ fondo.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.mi-clase { 
+    width: 250px; 
+    height: 250px;
+    border-radius: 1000px;
+    
+ }
+
+ .titulo{
+    background: center center;
+    color: aliceblue;
+
+ }
